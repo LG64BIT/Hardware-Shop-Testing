@@ -1,8 +1,9 @@
 # Hardware-Shop-Testing
 Projektni zadatak iz kolegija Metode i tehnike testiranja programske podrške
 
-Korišten je Katalon Recorder extension za web browsere.
 Testovi su pisani u C# na NUnit frameworku.
+
+Podrška za Google Chrome i Microsoft Edge browsere.
 
 Testiran je Web shop napravljen u php-u koji se nalazi na gitu: https://github.com/LG64BIT/WebShop.git
 
